@@ -1,0 +1,10 @@
+*/CDK2-CDK9-trace/*
+*/CDK2-ERK2-trace/*
+*/EGFR-trace/*
+*/CDK2-CDK9-trace/
+*/CDK2-ERK2-trace/
+*/EGFR-trace/
+*.npz
+*.json
+.DS_Store
+*.zip

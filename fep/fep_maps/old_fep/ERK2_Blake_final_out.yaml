@@ -1,0 +1,162 @@
+!!python/object:networkx.classes.digraph.DiGraph
+adj: &id001
+  '10':
+    '15': &id013 {bennett_ddg_unc: 0.14, bennett_ddg_val: 0.17, complex_dg_unc: 0.13,
+      complex_dg_val: 8.14, exp_ddg: -0.48743830605300076, solvent_dg_unc: 0.03, solvent_dg_val: 7.97}
+  '11':
+    '25': &id023 {bennett_ddg_unc: 0.1, bennett_ddg_val: 0.22, complex_dg_unc: 0.1,
+      complex_dg_val: -17.38, exp_ddg: 0.6639748884373002, solvent_dg_unc: 0.02, solvent_dg_val: -17.6}
+  '12':
+    '13': &id009 {bennett_ddg_unc: 0.05, bennett_ddg_val: 0.68, complex_dg_unc: 0.04,
+      complex_dg_val: 6.69, exp_ddg: 0.8056122123650002, solvent_dg_unc: 0.02, solvent_dg_val: 6.01}
+    '18': &id017 {bennett_ddg_unc: 0.07, bennett_ddg_val: 0.54, complex_dg_unc: 0.07,
+      complex_dg_val: 11.69, exp_ddg: 2.1942333673861008, solvent_dg_unc: 0.02, solvent_dg_val: 11.15}
+    '26': &id025 {bennett_ddg_unc: 0.06, bennett_ddg_val: 1.11, complex_dg_unc: 0.06,
+      complex_dg_val: -5.44, exp_ddg: 0.6266238488260001, solvent_dg_unc: 0.02, solvent_dg_val: -6.55}
+  '13': {}
+  '14': {}
+  '15': {}
+  '16':
+    '26': &id026 {bennett_ddg_unc: 0.09, bennett_ddg_val: 0.85, complex_dg_unc: 0.08,
+      complex_dg_val: -17.6, exp_ddg: 0.31419878378799915, solvent_dg_unc: 0.03, solvent_dg_val: -18.46}
+  '17':
+    '11': &id004 {bennett_ddg_unc: 0.13, bennett_ddg_val: 2.5, complex_dg_unc: 0.13,
+      complex_dg_val: 3.48, exp_ddg: 2.056250111320999, solvent_dg_unc: 0.03, solvent_dg_val: 0.97}
+    '15': &id014 {bennett_ddg_unc: 0.08, bennett_ddg_val: 0.72, complex_dg_unc: 0.08,
+      complex_dg_val: -2.3, exp_ddg: 0.4104304674369992, solvent_dg_unc: 0.02, solvent_dg_val: -3.02}
+    '18': &id018 {bennett_ddg_unc: 0.09, bennett_ddg_val: 1.94, complex_dg_unc: 0.08,
+      complex_dg_val: 2.98, exp_ddg: 3.3076155038171002, solvent_dg_unc: 0.02, solvent_dg_val: 1.04}
+    '22': &id019 {bennett_ddg_unc: 0.1, bennett_ddg_val: 2.33, complex_dg_unc: 0.1,
+      complex_dg_val: -6.81, exp_ddg: 0.7323193073629994, solvent_dg_unc: 0.02, solvent_dg_val: -9.14}
+    '9': &id032 {bennett_ddg_unc: 0.1, bennett_ddg_val: -1.22, complex_dg_unc: 0.09,
+      complex_dg_val: -23.62, exp_ddg: 0.02574866539299947, solvent_dg_unc: 0.03,
+      solvent_dg_val: -22.41}
+  '18':
+    '14': &id011 {bennett_ddg_unc: 0.13, bennett_ddg_val: -0.56, complex_dg_unc: 0.13,
+      complex_dg_val: -3.6, exp_ddg: -2.036569174676101, solvent_dg_unc: 0.02, solvent_dg_val: -3.04}
+    '27': &id028 {bennett_ddg_unc: 0.06, bennett_ddg_val: 1.63, complex_dg_unc: 0.05,
+      complex_dg_val: -2.48, exp_ddg: 0.42263968349049996, solvent_dg_unc: 0.02, solvent_dg_val: -4.1}
+  '21':
+    '12': &id005 {bennett_ddg_unc: 0.08, bennett_ddg_val: -0.75, complex_dg_unc: 0.08,
+      complex_dg_val: 18.3, exp_ddg: -1.0871229442059995, solvent_dg_unc: 0.03, solvent_dg_val: 19.05}
+    '27': &id029 {bennett_ddg_unc: 0.11, bennett_ddg_val: 0.4, complex_dg_unc: 0.11,
+      complex_dg_val: 25.97, exp_ddg: 1.5297501066706012, solvent_dg_unc: 0.03, solvent_dg_val: 25.57}
+  '22':
+    '12': &id006 {bennett_ddg_unc: 0.07, bennett_ddg_val: -0.54, complex_dg_unc: 0.07,
+      complex_dg_val: -1.48, exp_ddg: 0.38106282906800004, solvent_dg_unc: 0.02, solvent_dg_val: -0.94}
+    '24': &id022 {bennett_ddg_unc: 0.12, bennett_ddg_val: 0.26, complex_dg_unc: 0.11,
+      complex_dg_val: -14.11, exp_ddg: 0.8488405965679995, solvent_dg_unc: 0.02, solvent_dg_val: -14.38}
+    '26': &id027 {bennett_ddg_unc: 0.07, bennett_ddg_val: 0.62, complex_dg_unc: 0.07,
+      complex_dg_val: -7.55, exp_ddg: 1.0076866778940001, solvent_dg_unc: 0.02, solvent_dg_val: -8.17}
+    '6': &id030 {bennett_ddg_unc: 0.15, bennett_ddg_val: -0.82, complex_dg_unc: 0.14,
+      complex_dg_val: 2.27, exp_ddg: -0.6134969711410001, solvent_dg_unc: 0.05, solvent_dg_val: 3.08}
+  '23':
+    '25': &id024 {bennett_ddg_unc: 0.08, bennett_ddg_val: 0.85, complex_dg_unc: 0.08,
+      complex_dg_val: -13.39, exp_ddg: 1.0161164293183003, solvent_dg_unc: 0.02, solvent_dg_val: -14.24}
+  '24':
+    '10': &id003 {bennett_ddg_unc: 0.16, bennett_ddg_val: -1.25, complex_dg_unc: 0.15,
+      complex_dg_val: 11.82, exp_ddg: -0.683291130440999, solvent_dg_unc: 0.03, solvent_dg_val: 13.06}
+    '12': &id007 {bennett_ddg_unc: 0.11, bennett_ddg_val: -0.73, complex_dg_unc: 0.11,
+      complex_dg_val: 13.13, exp_ddg: -0.46777776749999944, solvent_dg_unc: 0.02,
+      solvent_dg_val: 13.86}
+    '13': &id010 {bennett_ddg_unc: 0.07, bennett_ddg_val: -0.26, complex_dg_unc: 0.07,
+      complex_dg_val: 19.67, exp_ddg: 0.3378344448650008, solvent_dg_unc: 0.02, solvent_dg_val: 19.92}
+  '25': {}
+  '26':
+    '23': &id021 {bennett_ddg_unc: 0.07, bennett_ddg_val: 0.53, complex_dg_unc: 0.07,
+      complex_dg_val: 16.98, exp_ddg: -0.035897414817000595, solvent_dg_unc: 0.02,
+      solvent_dg_val: 16.44}
+  '27':
+    '14': &id012 {bennett_ddg_unc: 0.08, bennett_ddg_val: -2.36, complex_dg_unc: 0.07,
+      complex_dg_val: -1.3, exp_ddg: -2.459208858166601, solvent_dg_unc: 0.02, solvent_dg_val: 1.06}
+    '15': &id015 {bennett_ddg_unc: 0.1, bennett_ddg_val: -2.16, complex_dg_unc: 0.1,
+      complex_dg_val: -1.56, exp_ddg: -3.319824719870601, solvent_dg_unc: 0.03, solvent_dg_val: 0.61}
+  '28':
+    '12': &id008 {bennett_ddg_unc: 0.04, bennett_ddg_val: -2.11, complex_dg_unc: 0.04,
+      complex_dg_val: -24.61, exp_ddg: -1.2886387023721007, solvent_dg_unc: 0.02,
+      solvent_dg_val: -22.49}
+    '16': &id016 {bennett_ddg_unc: 0.12, bennett_ddg_val: -0.98, complex_dg_unc: 0.11,
+      complex_dg_val: -13.14, exp_ddg: -0.9762136373340997, solvent_dg_unc: 0.03,
+      solvent_dg_val: -12.16}
+  '6': {}
+  '9':
+    '22': &id020 {bennett_ddg_unc: 0.24, bennett_ddg_val: 3.09, complex_dg_unc: 0.24,
+      complex_dg_val: 19.27, exp_ddg: 0.70657064197, solvent_dg_unc: 0.03, solvent_dg_val: 15.98}
+    '6': &id031 {bennett_ddg_unc: 0.1, bennett_ddg_val: 2.12, complex_dg_unc: 0.08,
+      complex_dg_val: 15.97, exp_ddg: 0.09307367082899987, solvent_dg_unc: 0.06, solvent_dg_val: 14.05}
+adjlist_dict_factory: &id002 !!python/name:__builtin__.dict ''
+edge: *id001
+edge_attr_dict_factory: *id002
+graph: {}
+node:
+  '10': {}
+  '11': {}
+  '12': {}
+  '13': {}
+  '14': {}
+  '15': {}
+  '16': {}
+  '17': {}
+  '18': {}
+  '21': {}
+  '22': {}
+  '23': {}
+  '24': {}
+  '25': {}
+  '26': {}
+  '27': {}
+  '28': {}
+  '6': {}
+  '9': {}
+node_dict_factory: *id002
+pred:
+  '10':
+    '24': *id003
+  '11':
+    '17': *id004
+  '12':
+    '21': *id005
+    '22': *id006
+    '24': *id007
+    '28': *id008
+  '13':
+    '12': *id009
+    '24': *id010
+  '14':
+    '18': *id011
+    '27': *id012
+  '15':
+    '10': *id013
+    '17': *id014
+    '27': *id015
+  '16':
+    '28': *id016
+  '17': {}
+  '18':
+    '12': *id017
+    '17': *id018
+  '21': {}
+  '22':
+    '17': *id019
+    '9': *id020
+  '23':
+    '26': *id021
+  '24':
+    '22': *id022
+  '25':
+    '11': *id023
+    '23': *id024
+  '26':
+    '12': *id025
+    '16': *id026
+    '22': *id027
+  '27':
+    '18': *id028
+    '21': *id029
+  '28': {}
+  '6':
+    '22': *id030
+    '9': *id031
+  '9':
+    '17': *id032
+succ: *id001

@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="solvent_dg_unc" attr.type="double" for="edge" id="d11" />
+  <key attr.name="ccc_ddg_val" attr.type="double" for="edge" id="d10" />
+  <key attr.name="exp_ddg" attr.type="double" for="edge" id="d9" />
+  <key attr.name="ccc_ddg_unc" attr.type="double" for="edge" id="d8" />
+  <key attr.name="bennett_ddg_unc" attr.type="double" for="edge" id="d7" />
+  <key attr.name="complex_dg_unc" attr.type="double" for="edge" id="d6" />
+  <key attr.name="solvent_dg_val" attr.type="double" for="edge" id="d5" />
+  <key attr.name="bennett_ddg_val" attr.type="double" for="edge" id="d4" />
+  <key attr.name="complex_dg_val" attr.type="double" for="edge" id="d3" />
+  <key attr.name="exp_dg" attr.type="double" for="node" id="d2" />
+  <key attr.name="pred_dg_unc" attr.type="double" for="node" id="d1" />
+  <key attr.name="pred_dg_val" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="12a">
+      <data key="d0">-10.6</data>
+      <data key="d1">0.13</data>
+      <data key="d2">-11.2166317028</data>
+    </node>
+    <node id="12b">
+      <data key="d0">-10.08</data>
+      <data key="d1">0.19</data>
+      <data key="d2">-8.22720567164</data>
+    </node>
+    <node id="12c">
+      <data key="d0">-11.49</data>
+      <data key="d1">0.15</data>
+      <data key="d2">-11.2166317028</data>
+    </node>
+    <node id="12e">
+      <data key="d0">-13.41</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-11.4499235721</data>
+    </node>
+    <node id="12f">
+      <data key="d0">-13.57</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-10.8509283707</data>
+    </node>
+    <node id="12g">
+      <data key="d0">-11.97</data>
+      <data key="d1">0.15</data>
+      <data key="d2">-11.3177944736</data>
+    </node>
+    <node id="12h">
+      <data key="d0">-9.97</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-9.55590605369</data>
+    </node>
+    <node id="12j">
+      <data key="d0">-9.69</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-11.118560514</data>
+    </node>
+    <node id="12l">
+      <data key="d0">-9.71</data>
+      <data key="d1">0.15</data>
+      <data key="d2">-10.4404979032</data>
+    </node>
+    <node id="12n">
+      <data key="d0">-9.14</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-10.9697507069</data>
+    </node>
+    <node id="12o">
+      <data key="d0">-11.13</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-11.118560514</data>
+    </node>
+    <node id="1a">
+      <data key="d0">-11.01</data>
+      <data key="d1">0.15</data>
+      <data key="d2">-11.8603540395</data>
+    </node>
+    <node id="12q">
+      <data key="d0">-10.58</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-11.6202676069</data>
+    </node>
+    <node id="1b">
+      <data key="d0">-11.95</data>
+      <data key="d1">0.15</data>
+      <data key="d2">-11.8603540395</data>
+    </node>
+    <node id="12t">
+      <data key="d0">-9.64</data>
+      <data key="d1">0.14</data>
+      <data key="d2">-11.118560514</data>
+    </node>
+    <edge source="12a" target="12b">
+      <data key="d3">-2.209515</data>
+      <data key="d4">0.510485</data>
+      <data key="d5">-2.72</data>
+      <data key="d6">0.659697</data>
+      <data key="d7">0.660000099855</data>
+      <data key="d8">0.66</data>
+      <data key="d9">2.98942603121</data>
+      <data key="d10">0.52</data>
+      <data key="d11">0.02</data>
+    </edge>
+    <edge source="12a" target="12g">
+      <data key="d3">-77.73</data>
+      <data key="d4">-1.52</data>
+      <data key="d5">-76.21</data>
+      <data key="d6">0.11</data>
+      <data key="d7">0.117046999107</data>
+      <data key="d8">0.34</data>
+      <data key="d9">-0.101162770782</data>
+      <data key="d10">-1.37</data>
+      <data key="d11">0.04</data>
+    </edge>
+    <edge source="12a" target="12l">
+      <data key="d3">-18.71</data>
+      <data key="d4">1.04</data>
+      <data key="d5">-19.75</data>
+      <data key="d6">0.07</data>
+      <data key="d7">0.080622577483</data>
+      <data key="d8">0.34</data>
+      <data key="d9">0.776133799617</data>
+      <data key="d10">0.89</data>
+      <data key="d11">0.04</data>
+    </edge>
+    <edge source="12a" target="12n">
+      <data key="d3">-16.94</data>
+      <data key="d4">1.4</data>
+      <data key="d5">-18.34</data>
+      <data key="d6">0.08</data>
+      <data key="d7">0.0854400374532</data>
+      <data key="d8">0.22</data>
+      <data key="d9">0.24688099596</data>
+      <data key="d10">1.46</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="12a" target="1a">
+      <data key="d3">-0.11</data>
+      <data key="d4">-0.25</data>
+      <data key="d5">0.14</data>
+      <data key="d6">0.09</data>
+      <data key="d7">0.0921954445729</data>
+      <data key="d8">0.27</data>
+      <data key="d9">-0.643722336684</data>
+      <data key="d10">-0.41</data>
+      <data key="d11">0.02</data>
+    </edge>
+    <edge source="12a" target="1b">
+      <data key="d3">-89.02</data>
+      <data key="d4">-1.5</data>
+      <data key="d5">-87.52</data>
+      <data key="d6">0.11</data>
+      <data key="d7">0.120830459736</data>
+      <data key="d8">0.27</data>
+      <data key="d9">-0.643722336684</data>
+      <data key="d10">-1.34</data>
+      <data key="d11">0.05</data>
+    </edge>
+    <edge source="12a" target="12t">
+      <data key="d3">-31.85</data>
+      <data key="d4">1.12</data>
+      <data key="d5">-32.97</data>
+      <data key="d6">0.06</data>
+      <data key="d7">0.067082039325</data>
+      <data key="d8">0.28</data>
+      <data key="d9">0.0980711887986</data>
+      <data key="d10">0.96</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="12c" target="12h">
+      <data key="d3">13.07</data>
+      <data key="d4">1.67</data>
+      <data key="d5">11.4</data>
+      <data key="d6">0.1</data>
+      <data key="d7">0.101980390272</data>
+      <data key="d8">0.34</data>
+      <data key="d9">1.66072564915</data>
+      <data key="d10">1.53</data>
+      <data key="d11">0.02</data>
+    </edge>
+    <edge source="12c" target="12a">
+      <data key="d3">99.66</data>
+      <data key="d4">0.91</data>
+      <data key="d5">98.75</data>
+      <data key="d6">0.477389</data>
+      <data key="d7">0.480000268043</data>
+      <data key="d8">0.48</data>
+      <data key="d9">0.0</data>
+      <data key="d10">0.89</data>
+      <data key="d11">0.05</data>
+    </edge>
+    <edge source="12c" target="12b">
+      <data key="d3">97.440485</data>
+      <data key="d4">1.430485</data>
+      <data key="d5">96.01</data>
+      <data key="d6">0.477389</data>
+      <data key="d7">0.480000268043</data>
+      <data key="d8">0.48</data>
+      <data key="d9">2.98942603121</data>
+      <data key="d10">1.42</data>
+      <data key="d11">0.05</data>
+    </edge>
+    <edge source="12c" target="12l">
+      <data key="d3">71.0</data>
+      <data key="d4">1.63</data>
+      <data key="d5">69.37</data>
+      <data key="d6">0.13</data>
+      <data key="d7">0.147648230602</data>
+      <data key="d8">0.34</data>
+      <data key="d9">0.776133799617</data>
+      <data key="d10">1.78</data>
+      <data key="d11">0.07</data>
+    </edge>
+    <edge source="12c" target="12t">
+      <data key="d3">57.89</data>
+      <data key="d4">1.83</data>
+      <data key="d5">56.06</data>
+      <data key="d6">0.12</data>
+      <data key="d7">0.13</data>
+      <data key="d8">0.28</data>
+      <data key="d9">0.0980711887986</data>
+      <data key="d10">1.85</data>
+      <data key="d11">0.05</data>
+    </edge>
+    <edge source="12e" target="12a">
+      <data key="d3">63.64</data>
+      <data key="d4">2.87</data>
+      <data key="d5">60.77</data>
+      <data key="d6">0.12</data>
+      <data key="d7">0.13</data>
+      <data key="d8">0.23</data>
+      <data key="d9">0.233291869248</data>
+      <data key="d10">2.81</data>
+      <data key="d11">0.05</data>
+    </edge>
+    <edge source="12e" target="12f">
+      <data key="d3">-9.74</data>
+      <data key="d4">-0.15</data>
+      <data key="d5">-9.59</data>
+      <data key="d6">0.06</data>
+      <data key="d7">0.0632455532034</data>
+      <data key="d8">0.2</data>
+      <data key="d9">0.598995201429</data>
+      <data key="d10">-0.16</data>
+      <data key="d11">0.02</data>
+    </edge>
+    <edge source="12e" target="12q">
+      <data key="d3">88.19</data>
+      <data key="d4">2.76</data>
+      <data key="d5">85.43</data>
+      <data key="d6">0.13</data>
+      <data key="d7">0.139283882772</data>
+      <data key="d8">0.23</data>
+      <data key="d9">-0.170344034832</data>
+      <data key="d10">2.83</data>
+      <data key="d11">0.05</data>
+    </edge>
+    <edge source="12h" target="12f">
+      <data key="d3">2.04</data>
+      <data key="d4">-3.62</data>
+      <data key="d5">5.66</data>
+      <data key="d6">0.09</data>
+      <data key="d7">0.0921954445729</data>
+      <data key="d8">0.2</data>
+      <data key="d9">-1.29502231697</data>
+      <data key="d10">-3.61</data>
+      <data key="d11">0.02</data>
+    </edge>
+    <edge source="12h" target="12g">
+      <data key="d3">-2.8</data>
+      <data key="d4">-1.85</data>
+      <data key="d5">-0.95</data>
+      <data key="d6">0.08</data>
+      <data key="d7">0.0824621125124</data>
+      <data key="d8">0.34</data>
+      <data key="d9">-1.76188841994</data>
+      <data key="d10">-2.0</data>
+      <data key="d11">0.02</data>
+    </edge>
+    <edge source="12j" target="12q">
+      <data key="d3">38.83</data>
+      <data key="d4">-0.8</data>
+      <data key="d5">39.63</data>
+      <data key="d6">0.11</data>
+      <data key="d7">0.11401754251</data>
+      <data key="d8">0.23</data>
+      <data key="d9">-0.501707092879</data>
+      <data key="d10">-0.88</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="12j" target="12t">
+      <data key="d3">-8.24</data>
+      <data key="d4">-0.09</data>
+      <data key="d5">-8.15</data>
+      <data key="d6">0.14</data>
+      <data key="d7">0.166433169771</data>
+      <data key="d8">0.23</data>
+      <data key="d9">0.0</data>
+      <data key="d10">0.05</data>
+      <data key="d11">0.09</data>
+    </edge>
+    <edge source="12j" target="12n">
+      <data key="d3">5.06</data>
+      <data key="d4">0.61</data>
+      <data key="d5">4.45</data>
+      <data key="d6">0.05</data>
+      <data key="d7">0.0583095189485</data>
+      <data key="d8">0.22</data>
+      <data key="d9">0.148809807161</data>
+      <data key="d10">0.55</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="12o" target="12q">
+      <data key="d3">14.96</data>
+      <data key="d4">0.59</data>
+      <data key="d5">14.37</data>
+      <data key="d6">0.07</data>
+      <data key="d7">0.0761577310586</data>
+      <data key="d8">0.16</data>
+      <data key="d9">-0.501707092879</data>
+      <data key="d10">0.56</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="12o" target="12n">
+      <data key="d3">-18.91</data>
+      <data key="d4">1.96</data>
+      <data key="d5">-20.87</data>
+      <data key="d6">0.11</data>
+      <data key="d7">0.11401754251</data>
+      <data key="d8">0.16</data>
+      <data key="d9">0.148809807161</data>
+      <data key="d10">1.99</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="12q" target="12n">
+      <data key="d3">-33.81</data>
+      <data key="d4">1.48</data>
+      <data key="d5">-35.29</data>
+      <data key="d6">0.11</data>
+      <data key="d7">0.11401754251</data>
+      <data key="d8">0.22</data>
+      <data key="d9">0.65051690004</data>
+      <data key="d10">1.44</data>
+      <data key="d11">0.03</data>
+    </edge>
+    <edge source="1b" target="1a">
+      <data key="d3">88.36</data>
+      <data key="d4">0.78</data>
+      <data key="d5">87.58</data>
+      <data key="d6">0.07</data>
+      <data key="d7">0.080622577483</data>
+      <data key="d8">0.27</data>
+      <data key="d9">0.0</data>
+      <data key="d10">0.94</data>
+      <data key="d11">0.04</data>
+    </edge>
+  </graph>
+</graphml>

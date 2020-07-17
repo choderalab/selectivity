@@ -1,0 +1,128 @@
+!!python/object:networkx.classes.digraph.DiGraph
+adj: &id001
+  12a:
+    12b: &id005 {bennett_ddg_unc: 0.18, bennett_ddg_val: 3.59, complex_dg_unc: 0.18,
+      complex_dg_val: 4.48, exp_ddg: 5.040784506967, solvent_dg_unc: 0.02, solvent_dg_val: 1.91}
+    12g: &id009 {bennett_ddg_unc: 0.15, bennett_ddg_val: -0.87, complex_dg_unc: 0.13,
+      complex_dg_val: -87.03, exp_ddg: 2.0880497519990016, solvent_dg_unc: 0.08, solvent_dg_val: -86.16}
+    12l: &id012 {bennett_ddg_unc: 0.1, bennett_ddg_val: 1.35, complex_dg_unc: 0.08,
+      complex_dg_val: -17.09, exp_ddg: 1.9292036706720008, solvent_dg_unc: 0.05, solvent_dg_val: -18.45}
+    12n: &id014 {bennett_ddg_unc: 0.07, bennett_ddg_val: 2.14, complex_dg_unc: 0.07,
+      complex_dg_val: -13.15, exp_ddg: 2.213171360395, solvent_dg_unc: 0.03, solvent_dg_val: -15.29}
+    12t: &id021 {bennett_ddg_unc: 0.1, bennett_ddg_val: 1.83, complex_dg_unc: 0.09,
+      complex_dg_val: -39.9, exp_ddg: 2.8867310901971006, solvent_dg_unc: 0.04, solvent_dg_val: -41.73}
+    1a: &id024 {bennett_ddg_unc: 0.08, bennett_ddg_val: -0.23, complex_dg_unc: 0.07,
+      complex_dg_val: -6.06, exp_ddg: 0.6505169000400013, solvent_dg_unc: 0.03, solvent_dg_val: -5.83}
+    1b: &id026 {bennett_ddg_unc: 0.18, bennett_ddg_val: 0.29, complex_dg_unc: 0.16,
+      complex_dg_val: -104.55, exp_ddg: 0.820860934872, solvent_dg_unc: 0.07, solvent_dg_val: -104.84}
+  12b: {}
+  12c:
+    12a: &id003 {bennett_ddg_unc: 0.15, bennett_ddg_val: 0.97, complex_dg_unc: 0.14,
+      complex_dg_val: 84.47, exp_ddg: -0.820860934872, solvent_dg_unc: 0.04, solvent_dg_val: 83.5}
+    12b: &id006 {bennett_ddg_unc: 0.13, bennett_ddg_val: 4.56, complex_dg_unc: 0.13,
+      complex_dg_val: 88.79, exp_ddg: 4.219923572095, solvent_dg_unc: 0.04, solvent_dg_val: 85.29}
+    12h: &id011 {bennett_ddg_unc: 0.07, bennett_ddg_val: 1.89, complex_dg_unc: 0.07,
+      complex_dg_val: -15.09, exp_ddg: 3.1696755049378016, solvent_dg_unc: 0.02, solvent_dg_val: -16.98}
+    12l: &id013 {bennett_ddg_unc: 0.17, bennett_ddg_val: 1.95, complex_dg_unc: 0.15,
+      complex_dg_val: 68.58, exp_ddg: 1.1083427358000009, solvent_dg_unc: 0.08, solvent_dg_val: 66.63}
+    12t: &id022 {bennett_ddg_unc: 0.21, bennett_ddg_val: 2.58, complex_dg_unc: 0.2,
+      complex_dg_val: 46.11, exp_ddg: 2.0658701553251007, solvent_dg_unc: 0.07, solvent_dg_val: 43.53}
+  12e:
+    12a: &id004 {bennett_ddg_unc: 0.15, bennett_ddg_val: 1.13, complex_dg_unc: 0.13,
+      complex_dg_val: 87.43, exp_ddg: -0.6505169000400013, solvent_dg_unc: 0.07, solvent_dg_val: 86.3}
+    12f: &id007 {bennett_ddg_unc: 0.1, bennett_ddg_val: 0.04, complex_dg_unc: 0.09,
+      complex_dg_val: -4.96, exp_ddg: 0.7129036007340002, solvent_dg_unc: 0.03, solvent_dg_val: -5.01}
+    12q: &id018 {bennett_ddg_unc: 0.16, bennett_ddg_val: 2.9, complex_dg_unc: 0.14,
+      complex_dg_val: 78.95, exp_ddg: 0.7129036007340002, solvent_dg_unc: 0.07, solvent_dg_val: 76.05}
+  12f: {}
+  12g: {}
+  12h:
+    12f: &id008 {bennett_ddg_unc: 0.17, bennett_ddg_val: -1.5, complex_dg_unc: 0.17,
+      complex_dg_val: 7.68, exp_ddg: -2.6271159390358, solvent_dg_unc: 0.04, solvent_dg_val: 9.19}
+    12g: &id010 {bennett_ddg_unc: 0.07, bennett_ddg_val: -1.24, complex_dg_unc: 0.07,
+      complex_dg_val: 12.2, exp_ddg: -1.9024866878108, solvent_dg_unc: 0.03, solvent_dg_val: 13.44}
+  12j:
+    12n: &id015 {bennett_ddg_unc: 0.1, bennett_ddg_val: 0.14, complex_dg_unc: 0.1,
+      complex_dg_val: 21.1, exp_ddg: -0.01393301931000046, solvent_dg_unc: 0.03, solvent_dg_val: 20.96}
+    12q: &id019 {bennett_ddg_unc: 0.12, bennett_ddg_val: 0.42, complex_dg_unc: 0.11,
+      complex_dg_val: 18.56, exp_ddg: -0.8636838789309991, solvent_dg_unc: 0.04, solvent_dg_val: 18.15}
+    12t: &id023 {bennett_ddg_unc: 0.22, bennett_ddg_val: -0.11, complex_dg_unc: 0.19,
+      complex_dg_val: -3.38, exp_ddg: 0.6596267104921001, solvent_dg_unc: 0.11, solvent_dg_val: -3.27}
+  12l: {}
+  12n: {}
+  12o:
+    12n: &id016 {bennett_ddg_unc: 0.15, bennett_ddg_val: -0.44, complex_dg_unc: 0.15,
+      complex_dg_val: 19.52, exp_ddg: 0.0, solvent_dg_unc: 0.03, solvent_dg_val: 19.96}
+    12q: &id020 {bennett_ddg_unc: 0.08, bennett_ddg_val: 0.02, complex_dg_unc: 0.07,
+      complex_dg_val: 17.2, exp_ddg: -0.8497508596209986, solvent_dg_unc: 0.03, solvent_dg_val: 17.18}
+  12q:
+    12n: &id017 {bennett_ddg_unc: 0.09, bennett_ddg_val: -0.37, complex_dg_unc: 0.09,
+      complex_dg_val: 2.44, exp_ddg: 0.8497508596209986, solvent_dg_unc: 0.03, solvent_dg_val: 2.8}
+  12t: {}
+  1a: {}
+  1b:
+    1a: &id025 {bennett_ddg_unc: 0.16, bennett_ddg_val: -0.4, complex_dg_unc: 0.15,
+      complex_dg_val: 98.74, exp_ddg: -0.17034403483199867, solvent_dg_unc: 0.06,
+      solvent_dg_val: 99.14}
+adjlist_dict_factory: &id002 !!python/name:__builtin__.dict ''
+edge: *id001
+edge_attr_dict_factory: *id002
+graph: {}
+node:
+  12a: {}
+  12b: {}
+  12c: {}
+  12e: {}
+  12f: {}
+  12g: {}
+  12h: {}
+  12j: {}
+  12l: {}
+  12n: {}
+  12o: {}
+  12q: {}
+  12t: {}
+  1a: {}
+  1b: {}
+node_dict_factory: *id002
+pred:
+  12a:
+    12c: *id003
+    12e: *id004
+  12b:
+    12a: *id005
+    12c: *id006
+  12c: {}
+  12e: {}
+  12f:
+    12e: *id007
+    12h: *id008
+  12g:
+    12a: *id009
+    12h: *id010
+  12h:
+    12c: *id011
+  12j: {}
+  12l:
+    12a: *id012
+    12c: *id013
+  12n:
+    12a: *id014
+    12j: *id015
+    12o: *id016
+    12q: *id017
+  12o: {}
+  12q:
+    12e: *id018
+    12j: *id019
+    12o: *id020
+  12t:
+    12a: *id021
+    12c: *id022
+    12j: *id023
+  1a:
+    12a: *id024
+    1b: *id025
+  1b:
+    12a: *id026
+succ: *id001

@@ -1,0 +1,1 @@
+$SCHRODINGER/fep_plus -HOST lsf-cpu -SUBHOST lsf-gpu-lt -JOBNAME CDK2_Series12_samegraph_051118 -extend CDK2_Series12_samegraph_051118.edge -time 5000.0 -checkpoint CDK2_Series12_samegraph_051118-multisim_checkpoint -OPLSDIR opls_dir

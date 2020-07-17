@@ -1,0 +1,1 @@
+"${SCHRODINGER}/fep_plus" -HOST lsf-cpu -SUBHOST lsf-gpu-ls -ppj 2 -time 15000.0 -seed 2007 -OPLSDIR opls_dir -JOBNAME CDK2_Blake_samegraph_051118 CDK2_Blake_samegraph_051118.fmp -ATTACHED
